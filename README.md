@@ -1,4 +1,4 @@
-# # This repo contains my unique solutions to all problems I've solved myself during the course (~170 problems from easy to medium to hard to gain level-1 problem-solving skills). 
+# # This repo contains my unique solutions to all problems I've solved myself during the course. 
 
 Course Description:
 - Deep Dive with C++ 11/14/17 Modern Syntax from basic to advanced
